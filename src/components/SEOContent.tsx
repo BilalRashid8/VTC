@@ -10,9 +10,7 @@ export default function SEOContent() {
           <h2 className="text-3xl font-bold text-royal-brown-900 mb-6">
             {t('home.seo.title')}
           </h2>
-          <p className="text-gray-700 mb-4">
-            {t('home.seo.intro')}
-          </p>
+          <p className="text-gray-700 mb-4" dangerouslySetInnerHTML={{ __html: t('home.seo.intro') }} />
 
           <h3 className="text-2xl font-semibold text-royal-brown-900 mt-8 mb-4">
             {t('home.seo.services.title')}
@@ -31,9 +29,7 @@ export default function SEOContent() {
           <h3 className="text-2xl font-semibold text-royal-brown-900 mt-8 mb-4">
             {t('home.seo.whyChoose.title')}
           </h3>
-          <p className="text-gray-700 mb-4">
-            {t('home.seo.whyChoose.intro')}
-          </p>
+          <p className="text-gray-700 mb-4" dangerouslySetInnerHTML={{ __html: t('home.seo.whyChoose.intro') }} />
           <ul className="list-disc pl-6 text-gray-700 mb-6 space-y-2">
             <li dangerouslySetInnerHTML={{ __html: t('home.seo.whyChoose.list.fixedPrices') }} />
             <li dangerouslySetInnerHTML={{ __html: t('home.seo.whyChoose.list.professionalDrivers') }} />
@@ -46,19 +42,13 @@ export default function SEOContent() {
           <h3 className="text-2xl font-semibold text-royal-brown-900 mt-8 mb-4">
             {t('home.seo.airportTransfer.title')}
           </h3>
-          <p className="text-gray-700 mb-4">
-            {t('home.seo.airportTransfer.paragraph1')}
-          </p>
-          <p className="text-gray-700 mb-6">
-            {t('home.seo.airportTransfer.paragraph2')}
-          </p>
+          <p className="text-gray-700 mb-4" dangerouslySetInnerHTML={{ __html: t('home.seo.airportTransfer.paragraph1') }} />
+          <p className="text-gray-700 mb-6" dangerouslySetInnerHTML={{ __html: t('home.seo.airportTransfer.paragraph2') }} />
 
           <h3 className="text-2xl font-semibold text-royal-brown-900 mt-8 mb-4">
             {t('home.seo.booking.title')}
           </h3>
-          <p className="text-gray-700 mb-4">
-            {t('home.seo.booking.intro')}
-          </p>
+          <p className="text-gray-700 mb-4" dangerouslySetInnerHTML={{ __html: t('home.seo.booking.intro') }} />
           <ol className="list-decimal pl-6 text-gray-700 mb-6 space-y-2">
             <li>{t('home.seo.booking.steps.step1')}</li>
             <li>{t('home.seo.booking.steps.step2')}</li>
@@ -66,9 +56,7 @@ export default function SEOContent() {
             <li>{t('home.seo.booking.steps.step4')}</li>
             <li>{t('home.seo.booking.steps.step5')}</li>
           </ol>
-          <p className="text-gray-700">
-            {t('home.seo.booking.conclusion')}
-          </p>
+          <p className="text-gray-700" dangerouslySetInnerHTML={{ __html: t('home.seo.booking.conclusion') }} />
         </article>
       </div>
     </section>
