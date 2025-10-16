@@ -1,0 +1,516 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "book": "Réserver",
+    "transfers": "Transferts",
+    "pricing": "Tarifs",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Transferts Paris - Disneyland",
+      "subtitle": "Transferts fiables et confortables entre Paris et Disneyland. Réservez votre trajet maintenant et profitez d'un voyage sans souci.",
+      "ctaPrices": "Voir les tarifs",
+      "proofReviews": "Avis ★★★★★ (Google vérifiés)",
+      "proofClients": "500+ clients entreprises",
+      "proofPunctual": "Ponctualité garantie"
+    },
+    "features": {
+      "title": "Pourquoi Nous Choisir ?",
+      "subtitle": "Découvrez le meilleur des transferts privés avec notre service premium",
+      "247service": {
+        "title": "Service 24/7",
+        "description": "Disponible jour et nuit pour votre confort"
+      },
+      "safetravel": {
+        "title": "Voyage Sûr",
+        "description": "Chauffeurs professionnels et véhicules bien entretenus"
+      },
+      "premiumservice": {
+        "title": "Service Premium",
+        "description": "Véhicules de luxe et service client exceptionnel"
+      },
+      "fixedprices": {
+        "title": "Prix Fixes",
+        "description": "Pas de frais cachés ni de surprises"
+      }
+    },
+    "vehicles": {
+      "title": "Nos Véhicules",
+      "subtitle": "Choisissez le véhicule parfait pour votre voyage",
+      "berline": {
+        "name": "Berline",
+        "description": "Parfait pour 1-3 passagers avec bagages standards. Berlines élégantes et confortables pour un voyage en douceur.",
+        "capacity": "1-3 passagers"
+      },
+      "van": {
+        "name": "Van",
+        "description": "Idéal pour les groupes de 4-8 passagers ou ceux avec des bagages supplémentaires. Spacieux et confortable pour les voyages en famille.",
+        "capacity": "4-8 passagers"
+      },
+      "features": {
+        "professionalDriver": "Chauffeur professionnel",
+        "airConditioning": "Climatisation",
+        "leatherSeats": "Sièges en cuir",
+        "flightTracking": "Suivi des vols",
+        "largeLuggageSpace": "Grand espace bagages",
+        "comfortableSeating": "Sièges confortables",
+        "perfectForFamilies": "Parfait pour les familles"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour vous aider avec vos besoins de transport",
+    "getInTouch": "Entrer en contact",
+    "phone": "Téléphone",
+    "phoneAvailable": "Disponible 24/7 pour les réservations et le support",
+    "email": "Email",
+    "emailResponse": "Nous répondons dans les 2 heures",
+    "instagram": "Instagram",
+    "instagramFollow": "Suivez-nous pour les mises à jour et photos",
+    "whatsapp": "WhatsApp",
+    "whatsappChat": "Chattez avec nous sur WhatsApp",
+    "whatsappQuick": "Réponses rapides via WhatsApp",
+    "serviceArea": "Zone de service",
+    "serviceAreaDesc": "Paris et ses environs",
+    "serviceAreaDetails": "Aéroports, gares, hôtels et Disneyland",
+    "availability": "Disponibilité",
+    "availabilityTime": "Service 24/7",
+    "availabilityDesc": "Disponible tous les jours de l'année",
+    "sendMessage": "Envoyez-nous un message",
+    "messageSent": "Votre message a été envoyé avec succès ! Nous vous répondrons bientôt.",
+    "messageError": "Échec de l'envoi du message. Veuillez réessayer ou nous contacter directement.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "selectSubject": "Sélectionnez un sujet",
+      "newBooking": "Nouvelle réservation",
+      "modifyBooking": "Modifier une réservation",
+      "cancellation": "Annulation",
+      "pricing": "Tarification",
+      "general": "Question générale",
+      "complaint": "Réclamation",
+      "messagePlaceholder": "Décrivez votre demande en détail...",
+      "sending": "Envoi en cours...",
+      "send": "Envoyer le message"
+    },
+    "faq": {
+      "title": "Questions Fréquentes",
+      "howFarAdvance": {
+        "question": "À quelle distance à l'avance puis-je réserver ?",
+        "answer": "Vous pouvez réserver jusqu'à 6 mois à l'avance ou même le jour même selon la disponibilité."
+      },
+      "childSeats": {
+        "question": "Avez-vous des sièges enfant disponibles ?",
+        "answer": "Oui, nous fournissons gratuitement des sièges bébé et enfant. Veuillez le spécifier lors de la réservation."
+      },
+      "flightDelay": {
+        "question": "Que se passe-t-il si mon vol est retardé ?",
+        "answer": "Nous surveillons tous les vols en temps réel et ajustons automatiquement l'heure de prise en charge."
+      },
+      "cancellation": {
+        "question": "Quelle est votre politique d'annulation ?",
+        "answer": "Annulation gratuite jusqu'à 24 heures avant le départ. Contactez-nous pour plus de détails."
+      }
+    }
+  },
+  "footer": {
+    "contact": "Contact",
+    "quickLinks": "Liens Rapides",
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés.",
+    "payments": "Moyens de Paiment Sécurisé"
+  },
+  "booking": {
+    "quickQuote": "Devis Rapide",
+    "subtitle": "Obtenez un prix instantané pour votre transfert",
+    "step1": {
+      "title": "Détails du Voyage",
+      "pickup": "Lieu de départ",
+      "dropoff": "Destination",
+      "selectPickup": "Sélectionnez le lieu de départ",
+      "selectDestination": "Sélectionnez la destination",
+      "selectStation": "Sélectionnez une gare",
+      "chooseStation": "Choisissez une gare",
+      "selectDestination2": "Sélectionnez une destination",
+      "chooseDestination": "Choisissez une destination",
+      "flightNumber": "Numéro de vol",
+      "flightPlaceholder": "Ex: AF1234",
+      "flightHelp": "Optionnel - nous aide à suivre votre vol",
+      "trainNumber": "Numéro de train",
+      "trainPlaceholder": "Ex: TGV 1234",
+      "trainHelp": "Optionnel - nous aide à suivre votre train",
+      "hotelAddress": "Adresse de l'hôtel",
+      "addressInParis": "Adresse à Paris",
+      "addressPlaceholder": "Entrez l'adresse complète",
+      "passengers": "Nombre de passagers",
+      "notSelected": "Non sélectionné",
+      "vehicleType": "Type de véhicule",
+      "chooseVehicle": "Choisissez un véhicule",
+      "vanInfo": "Pour 5-8 passagers, un van est recommandé",
+      "multipleVans": "Pour plus de 8 passagers, plusieurs véhicules seront nécessaires",
+      "tripType": "Type de trajet",
+      "oneWay": "Aller simple",
+      "roundTrip": "Aller-retour",
+      "outboundDate": "Date aller",
+      "outboundTime": "Heure aller",
+      "date": "Date",
+      "time": "Heure",
+      "returnJourney": "Voyage de retour",
+      "returnDate": "Date de retour",
+      "returnTime": "Heure de retour",
+      "price": "Prix estimé :",
+      "calculating": "Calcul...",
+      "next": "Suivant"
+    },
+    "step2": {
+      "title": "Détails Passagers",
+      "babySeats": "Sièges bébé (0-1 an)",
+      "childSeats": "Sièges enfant (1-7 ans)",
+      "strollers": "Poussettes",
+      "handLuggage": "Bagages à main",
+      "backpacks": "Sacs à dos",
+      "suitcases": "Valises",
+      "back": "Retour",
+      "next": "Suivant"
+    },
+    "step3": {
+      "title": "Paiement et Confirmation",
+      "paymentMethod": "Méthode de paiement",
+      "selectMethod": "Sélectionnez une méthode",
+      "cash": "Espèces (acompte 20%)",
+      "card": "Carte bancaire (paiement complet)",
+      "cashPayment": "Paiement en espèces",
+      "cardPayment": "Paiement par carte",
+      "totalPrice": "Prix total",
+      "depositToPay": "Acompte à payer",
+      "remainingToPay": "Restant à payer",
+      "depositInfo": "Vous payez 20% maintenant, le reste au chauffeur",
+      "totalToPay": "Total à payer",
+      "cardInfo": "Paiement complet sécurisé par Stripe",
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom complet",
+      "email": "Adresse email",
+      "emailPlaceholder": "votre.email@exemple.com",
+      "phone": "Numéro de téléphone",
+      "phonePlaceholder": "+33 6 12 34 56 78",
+      "notes": "Notes supplémentaires",
+      "notesPlaceholder": "Informations supplémentaires (optionnel)",
+      "payDeposit": "Payer l'acompte",
+      "payWith": "Payer avec",
+      "stripe": "Stripe"
+    },
+    "locations": {
+      "charlesDeGaulle": "Aéroport Charles de Gaulle",
+      "parisCenter": "Centre de Paris",
+      "orly": "Aéroport d'Orly",
+      "beauvais": "Aéroport de Beauvais",
+      "disneyland": "Disneyland Paris",
+      "trainStation": "Gare",
+      "gareNord": "Gare du Nord",
+      "gareLyon": "Gare de Lyon",
+      "montparnasse": "Montparnasse",
+      "saintLazare": "Saint Lazare",
+      "austerlitz": "Austerlitz",
+      "gareEst": "Gare de l'Est",
+      "bercy": "Bercy",
+      "disneylandPark": "Parc Disneyland",
+      "disneyHotels": "Hôtels Disney"
+    },
+    "vehicles": {
+      "berline": "Berline (1-3 passagers)",
+      "van": "Van (4-18 passagers)"
+    }
+  },
+  "transfers": {
+    "airports": {
+      "title": "Transferts Aéroports",
+      "subtitle": "Service de transfert fiable vers tous les aéroports parisiens",
+      "distance": "Distance",
+      "duration": "Durée",
+      "terminals": "Terminaux",
+      "airlines": "Compagnies principales",
+      "perTransfer": "par transfert",
+      "bookTransfer": "Réserver un transfert",
+      "cdg": {
+        "description": "Le plus grand aéroport international de France, situé à 25km au nord-est de Paris. Transferts directs disponibles 24h/24.",
+        "distance": "25km de Paris",
+        "duration": "45 minutes",
+        "terminals": "Terminaux 1, 2A, 2B, 2C, 2D, 2E, 2F, 2G, 3",
+        "airlines": "Air France, Delta, British Airways, Lufthansa..."
+      },
+      "orly": {
+        "description": "Le deuxième grand aéroport international de Paris, situé à 13km au sud de Paris. Accès pratique au centre de Paris.",
+        "distance": "13km de Paris",
+        "duration": "30 minutes",
+        "terminals": "Orly Sud, Orly Ouest",
+        "airlines": "Transavia, easyJet, Vueling, TAP Air Portugal..."
+      },
+      "beauvais": {
+        "description": "Situé au nord de Paris, desservant les compagnies low-cost. Transferts réguliers vers le centre de Paris disponibles.",
+        "distance": "85km de Paris",
+        "duration": "75 minutes",
+        "terminals": "Terminal unique",
+        "airlines": "Ryanair, Wizz Air, Blue Air..."
+      }
+    },
+    "trains": {
+      "title": "Transferts Gares",
+      "subtitle": "Transferts vers toutes les gares parisiennes",
+      "connections": "Connexions",
+      "features": "Accès",
+      "bookTransfer": "Réserver un transfert",
+      "gareNord": {
+        "description": "Gare principale pour le nord de la France et les connexions internationales",
+        "connections": "Eurostar, Thalys, TER",
+        "features": "Métro, RER, connexions bus"
+      },
+      "gareLyon": {
+        "description": "Porte d'entrée vers le sud-est de la France et la Suisse",
+        "connections": "TGV, TER, International",
+        "features": "Métro Ligne 1, 14, RER A, D"
+      },
+      "montparnasse": {
+        "description": "Gare principale pour l'ouest et le sud-ouest de la France",
+        "connections": "TGV Atlantique, TER",
+        "features": "Métro 4, 6, 12, 13"
+      },
+      "austerlitz": {
+        "description": "Gare pour le centre et le sud de la France",
+        "connections": "Intercités, TER",
+        "features": "Métro 5, 10, RER C"
+      },
+      "saintLazare": {
+        "description": "Gare pour la Normandie et la banlieue ouest",
+        "connections": "Transilien, TER",
+        "features": "Métro 3, 12, 13, 14, RER E"
+      },
+      "bercy": {
+        "description": "Gare pour le sud-est de la France et l'Italie",
+        "connections": "Trains de nuit Thello",
+        "features": "Métro 6, 14"
+      },
+      "whyChoose": {
+        "title": "Pourquoi choisir nos transferts gare ?",
+        "punctual": {
+          "title": "Ponctualité",
+          "description": "Arrivée garantie à l'heure pour vos trains"
+        },
+        "luggage": {
+          "title": "Assistance bagages",
+          "description": "Aide pour porter vos bagages"
+        },
+        "meetingPoint": {
+          "title": "Point de rendez-vous",
+          "description": "Chauffeur vous attend avec panneau nominatif"
+        },
+        "comfortable": {
+          "title": "Confort",
+          "description": "Véhicules climatisés et spacieux"
+        }
+      }
+    },
+    "disneyland": {
+      "title": "Transferts Disneyland Paris",
+      "subtitle": "Transferts magiques vers Disneyland Paris",
+      "mainInfo": {
+        "title": "Disneyland Paris - Le Royaume Magique",
+        "description": "Découvrez la magie de Disney avec nos transferts confortables et fiables vers Disneyland Paris."
+      },
+      "fromParis": {
+        "title": "Depuis Paris",
+        "distance": "Distance : 32 km de Paris",
+        "duration": "Durée : 45 minutes",
+        "available": "Disponible 24/7",
+        "service": "Service porte-à-porte"
+      },
+      "fromAirports": {
+        "title": "Depuis les aéroports",
+        "cdg": "CDG : 10 km (15 minutes)",
+        "orly": "Orly : 50 km (60 minutes)",
+        "beauvais": "Beauvais : 120 km (90 minutes)"
+      },
+      "transferService": {
+        "title": "Service de transfert",
+        "privateTransfer": {
+          "title": "Transfert privé",
+          "description": "Service de transfert privé confortable vers Disneyland Paris",
+          "features": [
+            "Véhicule privé",
+            "Chauffeur professionnel",
+            "Suivi des vols",
+            "Service porte-à-porte"
+          ],
+          "price": "À partir de 65€"
+        }
+      },
+      "tickets": {
+        "title": "Billets Disneyland Paris",
+        "subtitle": "Nous pouvons vous aider à réserver vos billets Disneyland Paris",
+        "oneDayTickets": {
+          "title": "Billets 1 jour",
+          "description": "Accès à un parc pour une journée",
+          "price": "À partir de 56€"
+        },
+        "parkHopper": {
+          "title": "Billets 2 parcs",
+          "description": "Accès aux deux parcs le même jour",
+          "price": "À partir de 81€"
+        },
+        "multiDay": {
+          "title": "Billets multi-jours",
+          "description": "Séjours de 2 à 4 jours",
+          "price": "À partir de 169€"
+        },
+        "vip": {
+          "title": "Expérience VIP",
+          "description": "Accès prioritaire et services premium",
+          "price": "Sur demande"
+        },
+        "howToBook": {
+          "title": "Comment réserver vos billets",
+          "step1": "Visitez le site officiel de Disneyland Paris",
+          "step2": "Choisissez vos dates et le type de billet",
+          "step3": "Sélectionnez le nombre de visiteurs",
+          "step4": "Procédez au paiement sécurisé",
+          "step5": "Recevez vos billets par email"
+        },
+        "bookTickets": "Réserver des billets"
+      }
+    }
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "subtitle": "Trouvez rapidement les réponses à vos questions sur nos services de transferts privés à Paris",
+    "questions": {
+      "booking": {
+        "question": "Comment puis-je réserver un transfert privé à Paris ?",
+        "answer": "La réservation se fait très facilement sur notre site en quelques clics. Indiquez votre lieu de prise en charge et votre destination (CDG, Orly, Disneyland, Paris centre...), choisissez votre véhicule adapté, et validez votre réservation en ligne."
+      },
+      "childSeats": {
+        "question": "Proposez-vous des sièges bébé ou enfant ?",
+        "answer": "Oui, pour garantir la sécurité de vos enfants, nous mettons gratuitement à disposition des sièges auto adaptés à chaque âge. Pensez à en faire la demande lors de votre réservation."
+      },
+      "flightDelay": {
+        "question": "Que se passe-t-il si mon vol a du retard ?",
+        "answer": "Nous suivons en temps réel l’arrivée de votre vol. En cas de retard, l'heure de prise en charge est automatiquement ajustée sans frais supplémentaires."
+      },
+      "cancellation": {
+        "question": "Puis-je annuler ma réservation ?",
+        "answer": "Oui, l’annulation est gratuite jusqu’à 24 heures avant le transfert. Pour une annulation moins de 24h à l’avance, des frais peuvent s’appliquer selon les conditions générales."
+      },
+      "payment": {
+        "question": "Quels moyens de paiement acceptez-vous ?",
+        "answer": "Vous pouvez payer en toute sécurité par carte bancaire directement sur notre site, ou en espèces auprès du chauffeur le jour du trajet."
+      },
+      "luggage": {
+        "question": "Puis-je voyager avec beaucoup de bagages ?",
+        "answer": "Nos véhicules sont conçus pour accueillir des bagages standards. Si vous avez plusieurs valises ou des bagages encombrants (poussette, matériel...), merci de nous le signaler afin de prévoir un véhicule adapté."
+      }
+    }
+  }
+  ,
+  "success": {
+    "title": "Réservation Confirmée !",
+    "subtitle": "Votre transfert a été réservé avec succès",
+    "processing": "Traitement en cours...",
+    "bookingReference": "Référence de réservation :",
+    "emailSent": "Email de confirmation envoyé à",
+    "sendingEmail": "Envoi de l'email de confirmation...",
+    "bookingDetails": "Détails de la réservation",
+    "route": "Itinéraire",
+    "from": "De :",
+    "to": "Vers :",
+    "flight": "Vol :",
+    "train": "Train :",
+    "date": "Date",
+    "time": "Heure",
+    "returnDate": "Date de retour",
+    "returnTime": "Heure de retour",
+    "passengers": "Passagers",
+    "passenger": "Passager",
+    "vehicle": "Véhicule",
+    "customerInfo": "Informations client",
+    "name": "Nom :",
+    "email": "Email :",
+    "phone": "Téléphone :",
+    "paymentSummary": {
+      "cashDeposit": "Paiement Espèces (Acompte)",
+      "fullCard": "Paiement Carte (Complet)",
+      "totalPrice": "Prix total",
+      "depositPaid": "Acompte payé",
+      "remainingToPay": "Restant à payer au chauffeur",
+      "totalPaid": "Montant total payé",
+      "fullyPaid": "Transfert entièrement payé",
+      "prepareCash": "Préparez"
+    },
+    "nextSteps": {
+      "title": "Prochaines étapes",
+      "emailConfirmation": "Vous recevrez un email de confirmation avec tous les détails",
+      "driverContact": "Notre chauffeur vous contactera 30 minutes avant le départ",
+      "cashForDriver": "en espèces pour le chauffeur",
+      "modifications": "Pour toute modification, contactez-nous au moins 48 heures à l'avance"
+    },
+    "actions": {
+      "printConfirmation": "Imprimer la confirmation",
+      "backToHome": "Retour à l'accueil"
+    },
+    "error": {
+      "title": "Erreur",
+      "message": "Impossible de récupérer les détails de la réservation",
+      "backToHome": "Retour à l'accueil"
+    }
+  },
+  "meta": {
+    "home": {
+      "title": "VTC Premium Paris – Transfert Aéroport, Gares & Chauffeur Privé 24/7 | Transfert Royal Paris",
+      "description": "Réservez votre transfert privé de luxe à Paris. Chauffeurs professionnels, service 24/7, prix fixes. Idéal pour aéroports, Disneyland et gares."
+    },
+    "book": {
+      "title": "Réservation VTC Premium à Paris – Transfert Aéroport, Gare, Disneyland | Transfert Royal Paris",
+      "description": "Réservez facilement votre transfert en ligne. Choisissez votre destination, votre véhicule et voyagez en toute sérénité."
+    },
+    "airport": {
+      "title": "Transferts Aéroport Paris – VTC & Chauffeur Privé CDG, Orly, Beauvais | Transfert Royal Paris",
+      "description": "Transferts fiables vers les aéroports de Paris. Prise en charge ponctuelle, suivi des vols et confort haut de gamme."
+    },
+    "disneyland": {
+      "title": "Transfert Disneyland Paris – VTC & Chauffeur Privé depuis Paris | Transfert Royal Paris",
+      "description": "Voyagez vers Disneyland Paris avec confort. VTC premium pour familles et groupes, sièges enfants inclus."
+    },
+    "trainStation": {
+      "title": "Transfert Gare Paris – VTC & Chauffeur Privé Gare de Lyon, Nord, Montparnasse | Transfert Royal Paris",
+      "description": "Réservez votre transfert depuis les gares parisiennes. Confort, ponctualité et chauffeurs professionnels."
+    },
+    "contact": {
+      "title": "Contact VTC Paris – Réservation Chauffeur Privé & Devis | Transfert Royal Paris",
+      "description": "Besoin d’aide pour votre réservation ? Contactez notre équipe — assistance disponible 24h/24, 7j/7."
+    },
+    "paymentSuccess": {
+      "title": "Confirmation Réservation & Paiement Réussi – VTC Paris | Transfert Royal Paris",
+      "description": "Votre réservation est confirmée ! Un chauffeur premium vous attend pour une expérience inoubliable."
+    },
+    "faq": {
+      "title": "FAQ VTC Paris – Toutes vos questions sur les transferts, chauffeurs & réservations | Transfert Royal Paris",
+      "description": "Trouvez ici toutes les réponses aux questions fréquentes sur la réservation, les tarifs, le paiement et nos services VTC premium à Paris."
+    }
+    
+  },
+  
+  "topRoutes": {
+    "title": "Tarifs populaires (prix fixes)",
+    "subtitle": "Berline ou Van : choisissez votre confort. Réservation en 1 minute.",
+    "sedan": "Berline",
+    "van": "Van",
+    "from": "à partir de",
+    "reserve": "Réserver",
+    "badge": "Prix fixes & transparents. Annulation simple.",
+    "reassurance": "★★★★★ Avis Google • Suivi de vol • Accueil pancarte • Ponctualité garantie"
+  }
+  
+}

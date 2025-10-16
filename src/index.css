@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes fadeInOut {
+  0% { opacity: 0 }
+  10% { opacity: 1 }
+  90% { opacity: 1 }
+  100% { opacity: 0 }
+}
+.animate-fade { animation: fadeInOut .35s ease both; }
+
+/* Personnalisation de la barre NProgress */
+#nprogress .bar {
+  background: #FEB21A !important;  /* couleur dorée */
+  height: 3px !important;          /* épaisseur */
+}
+
+/* Facultatif : couleur du “peg” (petit effet de lueur au bout) */
+#nprogress .peg {
+  box-shadow: 0 0 10px #FEB21A, 0 0 5px #FEB21A;
+}
+
+/* Supprimer le fond gris du spinner si activé */
+#nprogress .spinner-icon {
+  border-top-color: #FEB21A;
+  border-left-color: #FEB21A;
+}
+

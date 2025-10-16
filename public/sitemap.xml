@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+  <!-- Homepage -->
+  <url>
+    <loc>https://transfertroyalparis.com/</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Booking -->
+  <url>
+    <loc>https://transfertroyalparis.com/book</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Contact -->
+  <url>
+    <loc>https://transfertroyalparis.com/contact</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Airports -->
+  <url>
+    <loc>https://transfertroyalparis.com/airports</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Disneyland -->
+  <url>
+    <loc>https://transfertroyalparis.com/disneyland</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Train Stations -->
+  <url>
+    <loc>https://transfertroyalparis.com/train-station</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- Success Page -->
+  <url>
+    <loc>https://transfertroyalparis.com/success</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+  <!-- FAQ -->
+  <url>
+    <loc>https://transfertroyalparis.com/faq</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+    <!-- Contact -->
+  <url>
+    <loc>https://transfertroyalparis.com/contact</loc>
+    <lastmod>2025-07-15</lastmod>
+  </url>
+</urlset>

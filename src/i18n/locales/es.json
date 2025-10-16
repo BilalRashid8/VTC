@@ -1,0 +1,515 @@
+{
+    "nav": {
+      "home": "Inicio",
+      "book": "Reservar",
+      "transfers": "Traslados",
+      "pricing": "Precios",
+      "faq": "FAQ",
+      "contact": "Contacto"
+    },
+    "home": {
+      "hero": {
+        "title": "Traslados París - Disneyland",
+        "subtitle": "Traslados confiables y cómodos entre París y Disneyland. Reserve su viaje ahora y disfrute de un viaje sin preocupaciones.",
+          "ctaPrices": "Ver tarifas",
+          "proofReviews": "Reseñas ★★★★★ (Google verificadas)",
+          "proofClients": "500+ clientes empresariales",
+          "proofPunctual": "Puntualidad garantizada"
+      },
+      "features": {
+        "title": "¿Por Qué Elegirnos?",
+        "subtitle": "Experimente lo mejor en traslados privados con nuestro servicio premium",
+        "247service": {
+          "title": "Servicio 24/7",
+          "description": "Disponible día y noche para su comodidad"
+        },
+        "safetravel": {
+          "title": "Viaje Seguro",
+          "description": "Conductores profesionales y vehículos bien mantenidos"
+        },
+        "premiumservice": {
+          "title": "Servicio Premium",
+          "description": "Vehículos de lujo y servicio al cliente excepcional"
+        },
+        "fixedprices": {
+          "title": "Precios Fijos",
+          "description": "Sin tarifas ocultas ni sorpresas"
+        }
+      },
+      "vehicles": {
+        "title": "Nuestros Vehículos",
+        "subtitle": "Elija el vehículo perfecto para su viaje",
+        "berline": {
+          "name": "Sedán",
+          "description": "Perfecto para 1-3 pasajeros con equipaje estándar. Sedanes elegantes y cómodos para un viaje suave.",
+          "capacity": "1-3 pasajeros"
+        },
+        "van": {
+          "name": "Furgoneta",
+          "description": "Ideal para grupos de 4-8 pasajeros o aquellos con equipaje extra. Espacioso y cómodo para viajes familiares.",
+          "capacity": "4-8 pasajeros"
+        },
+        "features": {
+          "professionalDriver": "Conductor profesional",
+          "airConditioning": "Aire acondicionado",
+          "leatherSeats": "Asientos de cuero",
+          "flightTracking": "Seguimiento de vuelos",
+          "largeLuggageSpace": "Gran espacio para equipaje",
+          "comfortableSeating": "Asientos cómodos",
+          "perfectForFamilies": "Perfecto para familias"
+        }
+      }
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "subtitle": "Estamos aquí para ayudarte con tus necesidades de transporte",
+      "getInTouch": "Ponerse en contacto",
+      "phone": "Teléfono",
+      "phoneAvailable": "Disponible 24/7 para reservas y soporte",
+      "email": "Email",
+      "emailResponse": "Respondemos en 2 horas",
+      "instagram": "Instagram",
+      "instagramFollow": "Síguenos para actualizaciones y fotos",
+      "whatsapp": "WhatsApp",
+      "whatsappChat": "Chatea con nosotros en WhatsApp",
+      "whatsappQuick": "Respuestas rápidas vía WhatsApp",
+      "serviceArea": "Área de Servicio",
+      "serviceAreaDesc": "París y áreas circundantes",
+      "serviceAreaDetails": "Aeropuertos, estaciones de tren, hoteles y Disneyland",
+      "availability": "Disponibilidad",
+      "availabilityTime": "Servicio 24/7",
+      "availabilityDesc": "Disponible todos los días del año",
+      "sendMessage": "Envíanos un mensaje",
+      "messageSent": "¡Tu mensaje ha sido enviado exitosamente! Te responderemos pronto.",
+      "messageError": "Error al enviar el mensaje. Por favor intenta de nuevo o contáctanos directamente.",
+      "form": {
+        "name": "Nombre",
+        "email": "Email",
+        "phone": "Teléfono",
+        "subject": "Asunto",
+        "message": "Mensaje",
+        "selectSubject": "Selecciona un asunto",
+        "newBooking": "Nueva reserva",
+        "modifyBooking": "Modificar reserva",
+        "cancellation": "Cancelación",
+        "pricing": "Precios",
+        "general": "Pregunta general",
+        "complaint": "Queja",
+        "messagePlaceholder": "Describe tu solicitud en detalle...",
+        "sending": "Enviando...",
+        "send": "Enviar Mensaje"
+      },
+      "faq": {
+        "title": "Preguntas Frecuentes",
+        "howFarAdvance": {
+          "question": "¿Con cuánta anticipación puedo reservar?",
+          "answer": "Puedes reservar hasta 6 meses de anticipación o incluso el mismo día dependiendo de la disponibilidad."
+        },
+        "childSeats": {
+          "question": "¿Tienen asientos para niños disponibles?",
+          "answer": "Sí, proporcionamos asientos para bebés y niños sin costo adicional. Por favor especifica al reservar."
+        },
+        "flightDelay": {
+          "question": "¿Qué pasa si mi vuelo se retrasa?",
+          "answer": "Monitoreamos todos los vuelos en tiempo real y ajustamos automáticamente la hora de recogida."
+        },
+        "cancellation": {
+          "question": "¿Cuál es su política de cancelación?",
+          "answer": "Cancelación gratuita hasta 24 horas antes de la salida. Contáctanos para más detalles."
+        }
+      }
+    },
+    "footer": {
+      "contact": "Contacto",
+      "quickLinks": "Enlaces Rápidos",
+      "followUs": "Síguenos",
+      "rights": "Todos los derechos reservados.",
+      "payments": "Medios de Pago Seguros"
+    },
+    "booking": {
+      "quickQuote": "Cotización Rápida",
+      "subtitle": "Obtenga un precio instantáneo para su traslado",
+      "step1": {
+        "title": "Detalles del Viaje",
+        "pickup": "Lugar de recogida",
+        "dropoff": "Destino",
+        "selectPickup": "Seleccione lugar de recogida",
+        "selectDestination": "Seleccione destino",
+        "selectStation": "Seleccione una estación",
+        "chooseStation": "Elija una estación",
+        "selectDestination2": "Seleccione un destino",
+        "chooseDestination": "Elija un destino",
+        "flightNumber": "Número de vuelo",
+        "flightPlaceholder": "ej. AF1234",
+        "flightHelp": "Opcional - nos ayuda a rastrear su vuelo",
+        "trainNumber": "Número de tren",
+        "trainPlaceholder": "ej. TGV 1234",
+        "trainHelp": "Opcional - nos ayuda a rastrear su tren",
+        "hotelAddress": "Dirección del hotel",
+        "addressInParis": "Dirección en París",
+        "addressPlaceholder": "Ingrese la dirección completa",
+        "passengers": "Número de pasajeros",
+        "notSelected": "No seleccionado",
+        "vehicleType": "Tipo de vehículo",
+        "chooseVehicle": "Elija un vehículo",
+        "vanInfo": "Para 5-8 pasajeros, se recomienda una furgoneta",
+        "multipleVans": "Para más de 8 pasajeros, se necesitarán múltiples vehículos",
+        "tripType": "Tipo de viaje",
+        "oneWay": "Solo ida",
+        "roundTrip": "Ida y vuelta",
+        "outboundDate": "Fecha de ida",
+        "outboundTime": "Hora de ida",
+        "date": "Fecha",
+        "time": "Hora",
+        "returnJourney": "Viaje de regreso",
+        "returnDate": "Fecha de regreso",
+        "returnTime": "Hora de regreso",
+        "price": "Precio estimado:",
+        "calculating": "Calculando...",
+        "next": "Siguiente"
+      },
+      "step2": {
+        "title": "Detalles de Pasajeros",
+        "babySeats": "Asientos para bebés (0-1 años)",
+        "childSeats": "Asientos para niños (1-7 años)",
+        "strollers": "Cochecitos",
+        "handLuggage": "Equipaje de mano",
+        "backpacks": "Mochilas",
+        "suitcases": "Maletas",
+        "back": "Atrás",
+        "next": "Siguiente"
+      },
+      "step3": {
+        "title": "Pago y Confirmación",
+        "paymentMethod": "Método de pago",
+        "selectMethod": "Seleccione un método",
+        "cash": "Efectivo (depósito 20%)",
+        "card": "Tarjeta de crédito (pago completo)",
+        "cashPayment": "Pago en efectivo",
+        "cardPayment": "Pago con tarjeta",
+        "totalPrice": "Precio total",
+        "depositToPay": "Depósito a pagar",
+        "remainingToPay": "Restante a pagar",
+        "depositInfo": "Pagas 20% ahora, el resto al conductor",
+        "totalToPay": "Total a pagar",
+        "cardInfo": "Pago completo seguro vía Stripe",
+        "name": "Nombre completo",
+        "namePlaceholder": "Su nombre completo",
+        "email": "Dirección de email",
+        "emailPlaceholder": "su.email@ejemplo.com",
+        "phone": "Número de teléfono",
+        "phonePlaceholder": "+34 6 12 34 56 78",
+        "notes": "Notas adicionales",
+        "notesPlaceholder": "Información adicional (opcional)",
+        "payDeposit": "Pagar depósito",
+        "payWith": "Pagar con",
+        "stripe": "Stripe"
+      },
+      "locations": {
+        "charlesDeGaulle": "Aeropuerto Charles de Gaulle",
+        "parisCenter": "Centro de París",
+        "orly": "Aeropuerto de Orly",
+        "beauvais": "Aeropuerto de Beauvais",
+        "disneyland": "Disneyland París",
+        "trainStation": "Estación de tren",
+        "gareNord": "Gare du Nord",
+        "gareLyon": "Gare de Lyon",
+        "montparnasse": "Montparnasse",
+        "saintLazare": "Saint Lazare",
+        "austerlitz": "Austerlitz",
+        "gareEst": "Gare de l'Est",
+        "bercy": "Bercy",
+        "disneylandPark": "Parque Disneyland",
+        "disneyHotels": "Hoteles Disney"
+      },
+      "vehicles": {
+        "berline": "Sedán (1-3 pasajeros)",
+        "van": "Furgoneta (4-18 pasajeros)"
+      }
+    },
+    "transfers": {
+      "airports": {
+        "title": "Traslados de Aeropuertos",
+        "subtitle": "Servicio de traslado confiable a todos los aeropuertos de París",
+        "distance": "Distancia",
+        "duration": "Duración",
+        "terminals": "Terminales",
+        "airlines": "Aerolíneas principales",
+        "perTransfer": "por traslado",
+        "bookTransfer": "Reservar traslado",
+        "cdg": {
+          "description": "El aeropuerto internacional más grande de Francia, ubicado a 25km al noreste de París. Traslados directos disponibles 24/7.",
+          "distance": "25km de París",
+          "duration": "45 minutos",
+          "terminals": "Terminales 1, 2A, 2B, 2C, 2D, 2E, 2F, 2G, 3",
+          "airlines": "Air France, Delta, British Airways, Lufthansa..."
+        },
+        "orly": {
+          "description": "El segundo aeropuerto internacional principal de París, ubicado a 13km al sur de París. Acceso conveniente al centro de París.",
+          "distance": "13km de París",
+          "duration": "30 minutos",
+          "terminals": "Orly Sud, Orly Ouest",
+          "airlines": "Transavia, easyJet, Vueling, TAP Air Portugal..."
+        },
+        "beauvais": {
+          "description": "Ubicado al norte de París, sirviendo aerolíneas de bajo costo. Traslados regulares al centro de París disponibles.",
+          "distance": "85km de París",
+          "duration": "75 minutos",
+          "terminals": "Terminal único",
+          "airlines": "Ryanair, Wizz Air, Blue Air..."
+        }
+      },
+      "trains": {
+        "title": "Traslados de Estaciones de Tren",
+        "subtitle": "Traslados a todas las estaciones de tren de París",
+        "connections": "Conexiones",
+        "features": "Acceso",
+        "bookTransfer": "Reservar Traslado",
+        "gareNord": {
+          "description": "Estación principal para el norte de Francia y conexiones internacionales",
+          "connections": "Eurostar, Thalys, TER",
+          "features": "Metro, RER, conexiones de autobús"
+        },
+        "gareLyon": {
+          "description": "Puerta de entrada al sureste de Francia y Suiza",
+          "connections": "TGV, TER, Internacional",
+          "features": "Metro Línea 1, 14, RER A, D"
+        },
+        "montparnasse": {
+          "description": "Estación principal para el oeste y suroeste de Francia",
+          "connections": "TGV Atlantique, TER",
+          "features": "Metro 4, 6, 12, 13"
+        },
+        "austerlitz": {
+          "description": "Estación para el centro y sur de Francia",
+          "connections": "Intercités, TER",
+          "features": "Metro 5, 10, RER C"
+        },
+        "saintLazare": {
+          "description": "Estación para Normandía y suburbios occidentales",
+          "connections": "Transilien, TER",
+          "features": "Metro 3, 12, 13, 14, RER E"
+        },
+        "bercy": {
+          "description": "Estación para el sureste de Francia e Italia",
+          "connections": "Trenes nocturnos Thello",
+          "features": "Metro 6, 14"
+        },
+        "whyChoose": {
+          "title": "¿Por qué elegir nuestros traslados de estación de tren?",
+          "punctual": {
+            "title": "Puntualidad",
+            "description": "Llegada garantizada a tiempo para sus trenes"
+          },
+          "luggage": {
+            "title": "Asistencia con equipaje",
+            "description": "Ayuda para cargar su equipaje"
+          },
+          "meetingPoint": {
+            "title": "Punto de encuentro",
+            "description": "El conductor espera con cartel con nombre"
+          },
+          "comfortable": {
+            "title": "Comodidad",
+            "description": "Vehículos con aire acondicionado y espaciosos"
+          }
+        }
+      },
+      "disneyland": {
+        "title": "Traslados a Disneyland París",
+        "subtitle": "Traslados mágicos a Disneyland París",
+        "mainInfo": {
+          "title": "Disneyland París - El Reino Mágico",
+          "description": "Descubre la magia de Disney con nuestros traslados cómodos y confiables a Disneyland París."
+        },
+        "fromParis": {
+          "title": "Desde París",
+          "distance": "Distancia: 32 km de París",
+          "duration": "Duración: 45 minutos",
+          "available": "Disponible 24/7",
+          "service": "Servicio puerta a puerta"
+        },
+        "fromAirports": {
+          "title": "Desde aeropuertos",
+          "cdg": "CDG: 10 km (15 minutos)",
+          "orly": "Orly: 50 km (60 minutos)",
+          "beauvais": "Beauvais: 120 km (90 minutos)"
+        },
+        "transferService": {
+          "title": "Servicio de Traslado",
+          "privateTransfer": {
+            "title": "Traslado Privado",
+            "description": "Servicio de traslado privado cómodo a Disneyland París",
+            "features": [
+              "Vehículo privado",
+              "Conductor profesional",
+              "Seguimiento de vuelos",
+              "Servicio puerta a puerta"
+            ],
+            "price": "Desde €65"
+          }
+        },
+        "tickets": {
+          "title": "Entradas Disneyland París",
+          "subtitle": "Podemos ayudarte a reservar tus entradas para Disneyland París",
+          "oneDayTickets": {
+            "title": "Entradas de 1 día",
+            "description": "Acceso a un parque por un día",
+            "price": "Desde €56"
+          },
+          "parkHopper": {
+            "title": "Entradas 2 parques",
+            "description": "Acceso a ambos parques el mismo día",
+            "price": "Desde €81"
+          },
+          "multiDay": {
+            "title": "Entradas multi-día",
+            "description": "Estancias de 2 a 4 días",
+            "price": "Desde €169"
+          },
+          "vip": {
+            "title": "Experiencia VIP",
+            "description": "Acceso prioritario y servicios premium",
+            "price": "Bajo consulta"
+          },
+          "howToBook": {
+            "title": "Cómo reservar tus entradas",
+            "step1": "Visita el sitio web oficial de Disneyland París",
+            "step2": "Elige tus fechas y tipo de entrada",
+            "step3": "Selecciona el número de visitantes",
+            "step4": "Procede al pago seguro",
+            "step5": "Recibe tus entradas por email"
+          },
+          "bookTickets": "Reservar Entradas"
+        }
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Encuentra respuestas a las preguntas más comunes sobre nuestros traslados privados en París",
+      "questions": {
+        "booking": {
+          "question": "¿Cómo puedo reservar un traslado privado en París?",
+          "answer": "Puedes reservar fácilmente tu servicio VTC directamente desde nuestra página web en pocos clics. Elige el punto de recogida y destino, selecciona el tipo de vehículo y confirma tu reserva al instante. Ofrecemos traslados a CDG, Orly, Beauvais, Disneyland y toda la región de París."
+        },
+        "childSeats": {
+          "question": "¿Ofrecen asientos para bebés o niños?",
+          "answer": "Sí, proporcionamos asientos para bebés y sillas elevadoras sin costo adicional para garantizar la seguridad de tus hijos. Solo indícalo al momento de reservar."
+        },
+        "flightDelay": {
+          "question": "¿Qué sucede si mi vuelo se retrasa?",
+          "answer": "Hacemos seguimiento en tiempo real de todos los vuelos. Si hay algún retraso, ajustamos automáticamente la hora de recogida sin coste adicional."
+        },
+        "cancellation": {
+          "question": "¿Cuál es su política de cancelación?",
+          "answer": "Puedes cancelar sin cargos hasta 24 horas antes del traslado. Para cancelaciones de último minuto, se podrían aplicar tarifas según el caso."
+        },
+        "payment": {
+          "question": "¿Qué métodos de pago aceptan?",
+          "answer": "Aceptamos pagos con tarjeta de crédito a través de la web y también efectivo directamente al conductor si lo prefieres."
+        },
+        "luggage": {
+          "question": "¿Hay límites de equipaje?",
+          "answer": "Nuestros vehículos están preparados para transportar equipaje estándar. Si viajas con equipaje voluminoso o muchas maletas, contáctanos para asignarte el vehículo adecuado."
+        }
+      }
+    }
+    ,
+    "success": {
+      "title": "¡Reserva Confirmada!",
+      "subtitle": "Su traslado ha sido reservado exitosamente",
+      "processing": "Procesando...",
+      "bookingReference": "Referencia de reserva:",
+      "emailSent": "Email de confirmación enviado a",
+      "sendingEmail": "Enviando email de confirmación...",
+      "bookingDetails": "Detalles de la reserva",
+      "route": "Ruta",
+      "from": "Desde:",
+      "to": "Hacia:",
+      "flight": "Vuelo:",
+      "train": "Tren:",
+      "date": "Fecha",
+      "time": "Hora",
+      "returnDate": "Fecha de regreso",
+      "returnTime": "Hora de regreso",
+      "passengers": "Pasajeros",
+      "passenger": "Pasajero",
+      "vehicle": "Vehículo",
+      "customerInfo": "Información del cliente",
+      "name": "Nombre:",
+      "email": "Email:",
+      "phone": "Teléfono:",
+      "paymentSummary": {
+        "cashDeposit": "Pago en Efectivo (Depósito)",
+        "fullCard": "Pago con Tarjeta (Completo)",
+        "totalPrice": "Precio total",
+        "depositPaid": "Depósito pagado",
+        "remainingToPay": "Restante a pagar al conductor",
+        "totalPaid": "Monto total pagado",
+        "fullyPaid": "Traslado completamente pagado",
+        "prepareCash": "Prepare"
+      },
+      "nextSteps": {
+        "title": "Próximos pasos",
+        "emailConfirmation": "Recibirás un email de confirmación con todos los detalles",
+        "driverContact": "Nuestro conductor te contactará 30 minutos antes de la salida",
+        "cashForDriver": "en efectivo para el conductor",
+        "modifications": "Para cualquier cambio, contáctanos al menos 48 horas antes"
+      },
+      "actions": {
+        "printConfirmation": "Imprimir confirmación",
+        "backToHome": "Volver al inicio"
+      },
+      "error": {
+        "title": "Error",
+        "message": "No se pudieron recuperar los detalles de la reserva",
+        "backToHome": "Volver al inicio"
+      }
+    },
+    "meta": {
+      "home": {
+        "title": "VTC Premium París – Traslados Aeropuerto, Estaciones & Chofer Privado 24/7 | Transfert Royal Paris",
+        "description": "Reserva tu traslado privado de lujo en París. Conductores profesionales, servicio 24/7 y precios fijos. Ideal para aeropuertos, Disneyland y estaciones de tren."
+      },
+      "book": {
+        "title": "Reserva VTC Premium en París – Traslado Aeropuerto, Estación, Disneyland | Transfert Royal Paris",
+        "description": "Reserva fácilmente tu traslado online. Elige tu destino y vehículo, y viaja con total tranquilidad."
+      },
+      "airport": {
+        "title": "Traslados Aeropuerto París – VTC & Chofer Privado CDG, Orly, Beauvais | Transfert Royal Paris",
+        "description": "Traslados confiables a todos los aeropuertos de París. Recogida puntual, seguimiento de vuelos y comodidad premium."
+      },
+      "disneyland": {
+        "title": "Traslado Disneyland París – VTC & Chofer Privado desde París | Transfert Royal Paris",
+        "description": "Viaja a Disneyland París con total comodidad. VTC premium para familias y grupos, asientos para niños incluidos."
+      },
+      "trainStation": {
+        "title": "Traslado Estaciones de París – VTC & Chofer Privado Gare de Lyon, Nord, Montparnasse | Transfert Royal Paris",
+        "description": "Reserva tu traslado desde las estaciones de tren de París. Comodidad, puntualidad y conductores profesionales."
+      },
+      "contact": {
+        "title": "Contacto VTC París – Reserva Chofer Privado & Solicita Presupuesto | Transfert Royal Paris",
+        "description": "¿Necesitas ayuda con tu reserva? Contacta a nuestro equipo — asistencia disponible 24/7."
+      },
+      "paymentSuccess": {
+        "title": "Confirmación de Reserva & Pago Exitoso – VTC París | Transfert Royal Paris",
+        "description": "¡Tu reserva está confirmada! Un chofer premium te espera para una experiencia inolvidable."
+      },
+      "faq": {
+        "title": "FAQ VTC París – Todas tus preguntas sobre traslados, choferes y reservas | Transfert Royal Paris",
+        "description": "Encuentra aquí todas las respuestas a las preguntas frecuentes sobre reservas, tarifas, pagos y nuestros servicios VTC premium en París."
+      }
+    },
+    
+  "topRoutes": {
+    "title": "Tarifas populares (precio fijo)",
+    "subtitle": "Sedán o Van: elige tu comodidad. Reserva en 1 minuto.",
+    "sedan": "Sedán",
+    "van": "Van",
+    "from": "desde",
+    "reserve": "Reservar",
+    "badge": "Precios fijos y transparentes. Cancelación sencilla.",
+    "reassurance": "★★★★★ Reseñas en Google • Seguimiento de vuelos • Recepción con cartel • Puntualidad garantizada"
+  }
+    
+  }
