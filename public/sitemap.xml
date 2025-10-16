@@ -1,52 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
   <!-- Homepage -->
   <url>
     <loc>https://transfertroyalparis.com/</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/" />
   </url>
+
   <!-- Booking -->
   <url>
     <loc>https://transfertroyalparis.com/book</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/book" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/book" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/book" />
   </url>
-  <!-- Contact -->
+
+  <!-- Transfers Page -->
   <url>
-    <loc>https://transfertroyalparis.com/contact</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://transfertroyalparis.com/transfers</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/transfers" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/transfers" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/transfers" />
   </url>
-  <!-- Airports -->
+
+  <!-- Airports Transfers -->
   <url>
-    <loc>https://transfertroyalparis.com/airports</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://transfertroyalparis.com/transfers/airports</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/transfers/airports" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/transfers/airports" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/transfers/airports" />
   </url>
-  <!-- Disneyland -->
+
+  <!-- Disneyland Transfers -->
   <url>
-    <loc>https://transfertroyalparis.com/disneyland</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://transfertroyalparis.com/transfers/disneyland</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/transfers/disneyland" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/transfers/disneyland" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/transfers/disneyland" />
   </url>
-  <!-- Train Stations -->
+
+  <!-- Train Stations Transfers -->
   <url>
-    <loc>https://transfertroyalparis.com/train-station</loc>
-    <lastmod>2025-07-15</lastmod>
+    <loc>https://transfertroyalparis.com/transfers/train-stations</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/transfers/train-stations" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/transfers/train-stations" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/transfers/train-stations" />
   </url>
-  <!-- Success Page -->
-  <url>
-    <loc>https://transfertroyalparis.com/success</loc>
-    <lastmod>2025-07-15</lastmod>
-  </url>
+
   <!-- FAQ -->
   <url>
     <loc>https://transfertroyalparis.com/faq</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/faq" />
   </url>
-    <!-- Contact -->
+
+  <!-- Contact -->
   <url>
     <loc>https://transfertroyalparis.com/contact</loc>
-    <lastmod>2025-07-15</lastmod>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://transfertroyalparis.com/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://transfertroyalparis.com/en/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://transfertroyalparis.com/es/contact" />
   </url>
+
+  <!-- Success Page -->
+  <url>
+    <loc>https://transfertroyalparis.com/success</loc>
+    <lastmod>2025-10-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
 </urlset>

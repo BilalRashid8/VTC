@@ -133,8 +133,10 @@ export default function TransfersPage() {
               <img
                 src={airport.image}
                 loading="lazy"
-                alt={airport.name}
+                alt={`Transfert VTC ${airport.name} - Service premium Transfert Royal Paris`}
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
+                width="400"
+                height="300"
               />
             </div>
             <div className="p-6">

@@ -61,8 +61,11 @@ export default function DisneylandTransfersPage() {
         <div className="h-[400px] relative">
           <img
             src="/destination/disneyland/Disneyland.webp"
-            alt="Disneyland Paris"
+            alt="Transfert VTC Disneyland Paris - Service premium depuis Paris et aéroports"
             className="w-full h-full object-cover"
+            width="1200"
+            height="400"
+            loading="eager"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
           <div className="absolute bottom-0 left-0 right-0 p-8 text-white">
@@ -104,8 +107,10 @@ export default function DisneylandTransfersPage() {
             <img
               src="/destination/disneyland/Disneyland.webp"
               loading="lazy"
-              alt={transferOption.title}
+              alt="Transfert privé Disneyland Paris en VTC - Véhicule premium"
               className="w-full h-full object-cover"
+              width="600"
+              height="300"
             />
           </div>
           <div className="p-6">

@@ -75,8 +75,10 @@ export default function TrainStationTransfersPage() {
               <img
                 src={station.image}
                 loading="lazy"
-                alt={station.name}
+                alt={`Transfert VTC ${station.name} Paris - Service de chauffeur privé`}
                 className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-500"
+                width="400"
+                height="300"
               />
             </div>
             <div className="p-6">
