@@ -58,6 +58,50 @@
         "comfortableSeating": "Sièges confortables",
         "perfectForFamilies": "Parfait pour les familles"
       }
+    },
+    "seo": {
+      "title": "Transfert Royal Paris : Votre Service VTC Premium à Paris",
+      "intro": "<strong>Transfert Royal Paris</strong> est votre partenaire de confiance pour tous vos déplacements en région parisienne. Spécialisés dans le <strong>transport VTC haut de gamme</strong>, nous offrons un service de <strong>chauffeur privé</strong> disponible 24h/24 et 7j/7 pour répondre à tous vos besoins de transport.",
+      "services": {
+        "title": "Nos Services de Transfert VTC à Paris",
+        "intro": "Nous proposons une gamme complète de services de transfert adaptés à vos besoins :",
+        "list": {
+          "airport": "<strong>Transfert aéroport Paris</strong> : Navettes vers et depuis les aéroports CDG, Orly et Beauvais",
+          "station": "<strong>Transfert gare Paris</strong> : Service vers toutes les gares parisiennes (Gare du Nord, Gare de Lyon, Montparnasse, etc.)",
+          "disneyland": "<strong>Transfert Disneyland Paris</strong> : Transport familial vers le parc d'attractions avec sièges enfants",
+          "hotel": "<strong>Transfert hôtel</strong> : Service porte-à-porte depuis votre hôtel parisien",
+          "chauffeur": "<strong>Chauffeur privé Paris</strong> : Mise à disposition avec chauffeur pour vos déplacements professionnels"
+        }
+      },
+      "whyChoose": {
+        "title": "Pourquoi Choisir Transfert Royal Paris ?",
+        "intro": "Notre service de <strong>VTC Paris</strong> se distingue par son excellence et sa fiabilité :",
+        "list": {
+          "fixedPrices": "<strong>Prix fixes et transparents</strong> : Pas de surprises, vous connaissez le tarif à l'avance",
+          "professionalDrivers": "<strong>Chauffeurs professionnels</strong> : Personnel expérimenté, poli et ponctuel",
+          "premiumVehicles": "<strong>Véhicules premium</strong> : Berlines et vans de luxe, toujours propres et entretenus",
+          "flightTracking": "<strong>Suivi de vol en temps réel</strong> : Adaptation automatique en cas de retard",
+          "service247": "<strong>Service 24/7</strong> : Disponible jour et nuit, même les jours fériés",
+          "easyBooking": "<strong>Réservation en ligne facile</strong> : Booking en quelques clics sur notre site"
+        }
+      },
+      "airportTransfer": {
+        "title": "Transfert Aéroport Paris : CDG, Orly, Beauvais",
+        "paragraph1": "Nos <strong>transferts aéroport</strong> vous garantissent un trajet serein et ponctuel. Que vous arriviez à l'<strong>aéroport Charles de Gaulle (CDG)</strong>, à l'<strong>aéroport d'Orly (ORY)</strong> ou à l'<strong>aéroport de Beauvais (BVA)</strong>, notre chauffeur vous accueille avec une pancarte à votre nom et vous accompagne jusqu'à votre destination finale.",
+        "paragraph2": "Notre service de <strong>navette aéroport</strong> inclut le suivi de vol, l'assistance bagages et un temps d'attente gratuit pour vous laisser le temps de récupérer vos valises et de passer les douanes en toute tranquillité."
+      },
+      "booking": {
+        "title": "Réservez Votre VTC Paris en Ligne",
+        "intro": "La <strong>réservation VTC</strong> sur Transfert Royal Paris est simple et rapide. En quelques clics, vous pouvez :",
+        "steps": {
+          "step1": "Indiquer votre lieu de départ et votre destination",
+          "step2": "Choisir la date et l'heure de votre transfert",
+          "step3": "Sélectionner le type de véhicule (berline ou van)",
+          "step4": "Obtenir un devis instantané avec prix fixe",
+          "step5": "Confirmer et payer en ligne de manière sécurisée"
+        },
+        "conclusion": "Faites confiance à <strong>Transfert Royal Paris</strong> pour tous vos besoins de transport privé en région parisienne. Contactez-nous dès maintenant pour réserver votre prochain trajet en <strong>VTC</strong> !"
+      }
     }
   },
   "contact": {
@@ -511,53 +555,6 @@
     "reserve": "Réserver",
     "badge": "Prix fixes & transparents. Annulation simple.",
     "reassurance": "★★★★★ Avis Google • Suivi de vol • Accueil pancarte • Ponctualité garantie"
-  },
-
-  "home": {
-    "seo": {
-      "title": "Transfert Royal Paris : Votre Service VTC Premium à Paris",
-      "intro": "<strong>Transfert Royal Paris</strong> est votre partenaire de confiance pour tous vos déplacements en région parisienne. Spécialisés dans le <strong>transport VTC haut de gamme</strong>, nous offrons un service de <strong>chauffeur privé</strong> disponible 24h/24 et 7j/7 pour répondre à tous vos besoins de transport.",
-      "services": {
-        "title": "Nos Services de Transfert VTC à Paris",
-        "intro": "Nous proposons une gamme complète de services de transfert adaptés à vos besoins :",
-        "list": {
-          "airport": "<strong>Transfert aéroport Paris</strong> : Navettes vers et depuis les aéroports CDG, Orly et Beauvais",
-          "station": "<strong>Transfert gare Paris</strong> : Service vers toutes les gares parisiennes (Gare du Nord, Gare de Lyon, Montparnasse, etc.)",
-          "disneyland": "<strong>Transfert Disneyland Paris</strong> : Transport familial vers le parc d'attractions avec sièges enfants",
-          "hotel": "<strong>Transfert hôtel</strong> : Service porte-à-porte depuis votre hôtel parisien",
-          "chauffeur": "<strong>Chauffeur privé Paris</strong> : Mise à disposition avec chauffeur pour vos déplacements professionnels"
-        }
-      },
-      "whyChoose": {
-        "title": "Pourquoi Choisir Transfert Royal Paris ?",
-        "intro": "Notre service de <strong>VTC Paris</strong> se distingue par son excellence et sa fiabilité :",
-        "list": {
-          "fixedPrices": "<strong>Prix fixes et transparents</strong> : Pas de surprises, vous connaissez le tarif à l'avance",
-          "professionalDrivers": "<strong>Chauffeurs professionnels</strong> : Personnel expérimenté, poli et ponctuel",
-          "premiumVehicles": "<strong>Véhicules premium</strong> : Berlines et vans de luxe, toujours propres et entretenus",
-          "flightTracking": "<strong>Suivi de vol en temps réel</strong> : Adaptation automatique en cas de retard",
-          "service247": "<strong>Service 24/7</strong> : Disponible jour et nuit, même les jours fériés",
-          "easyBooking": "<strong>Réservation en ligne facile</strong> : Booking en quelques clics sur notre site"
-        }
-      },
-      "airportTransfer": {
-        "title": "Transfert Aéroport Paris : CDG, Orly, Beauvais",
-        "paragraph1": "Nos <strong>transferts aéroport</strong> vous garantissent un trajet serein et ponctuel. Que vous arriviez à l'<strong>aéroport Charles de Gaulle (CDG)</strong>, à l'<strong>aéroport d'Orly (ORY)</strong> ou à l'<strong>aéroport de Beauvais (BVA)</strong>, notre chauffeur vous accueille avec une pancarte à votre nom et vous accompagne jusqu'à votre destination finale.",
-        "paragraph2": "Notre service de <strong>navette aéroport</strong> inclut le suivi de vol, l'assistance bagages et un temps d'attente gratuit pour vous laisser le temps de récupérer vos valises et de passer les douanes en toute tranquillité."
-      },
-      "booking": {
-        "title": "Réservez Votre VTC Paris en Ligne",
-        "intro": "La <strong>réservation VTC</strong> sur Transfert Royal Paris est simple et rapide. En quelques clics, vous pouvez :",
-        "steps": {
-          "step1": "Indiquer votre lieu de départ et votre destination",
-          "step2": "Choisir la date et l'heure de votre transfert",
-          "step3": "Sélectionner le type de véhicule (berline ou van)",
-          "step4": "Obtenir un devis instantané avec prix fixe",
-          "step5": "Confirmer et payer en ligne de manière sécurisée"
-        },
-        "conclusion": "Faites confiance à <strong>Transfert Royal Paris</strong> pour tous vos besoins de transport privé en région parisienne. Contactez-nous dès maintenant pour réserver votre prochain trajet en <strong>VTC</strong> !"
-      }
-    }
   }
 
 }

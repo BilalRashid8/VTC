@@ -58,9 +58,53 @@
           "comfortableSeating": "Comfortable seating",
           "perfectForFamilies": "Perfect for families"
         }
+      },
+      "seo": {
+      "title": "Transfert Royal Paris: Your Premium VTC Service in Paris",
+      "intro": "<strong>Transfert Royal Paris</strong> is your trusted partner for all your travels in the Paris region. Specializing in <strong>premium VTC transportation</strong>, we offer a <strong>private chauffeur</strong> service available 24/7 to meet all your transportation needs.",
+      "services": {
+        "title": "Our VTC Transfer Services in Paris",
+        "intro": "We offer a complete range of transfer services adapted to your needs:",
+        "list": {
+          "airport": "<strong>Paris Airport Transfer</strong>: Shuttles to and from CDG, Orly, and Beauvais airports",
+          "station": "<strong>Paris Train Station Transfer</strong>: Service to all Paris train stations (Gare du Nord, Gare de Lyon, Montparnasse, etc.)",
+          "disneyland": "<strong>Disneyland Paris Transfer</strong>: Family transportation to the theme park with child seats",
+          "hotel": "<strong>Hotel Transfer</strong>: Door-to-door service from your Parisian hotel",
+          "chauffeur": "<strong>Private Chauffeur Paris</strong>: Chauffeur-driven service for your professional trips"
+        }
+      },
+      "whyChoose": {
+        "title": "Why Choose Transfert Royal Paris?",
+        "intro": "Our <strong>VTC Paris</strong> service stands out for its excellence and reliability:",
+        "list": {
+          "fixedPrices": "<strong>Fixed and transparent prices</strong>: No surprises, you know the fare in advance",
+          "professionalDrivers": "<strong>Professional chauffeurs</strong>: Experienced, polite, and punctual staff",
+          "premiumVehicles": "<strong>Premium vehicles</strong>: Luxury sedans and vans, always clean and well-maintained",
+          "flightTracking": "<strong>Real-time flight tracking</strong>: Automatic adjustment in case of delay",
+          "service247": "<strong>24/7 Service</strong>: Available day and night, even on public holidays",
+          "easyBooking": "<strong>Easy online booking</strong>: Book in a few clicks on our website"
+        }
+      },
+      "airportTransfer": {
+        "title": "Paris Airport Transfer: CDG, Orly, Beauvais",
+        "paragraph1": "Our <strong>airport transfers</strong> guarantee you a peaceful and punctual journey. Whether you arrive at <strong>Charles de Gaulle Airport (CDG)</strong>, <strong>Orly Airport (ORY)</strong>, or <strong>Beauvais Airport (BVA)</strong>, our chauffeur welcomes you with a name sign and accompanies you to your final destination.",
+        "paragraph2": "Our <strong>airport shuttle</strong> service includes flight tracking, luggage assistance, and free waiting time to give you time to collect your luggage and clear customs with complete peace of mind."
+      },
+      "booking": {
+        "title": "Book Your VTC Paris Online",
+        "intro": "<strong>VTC booking</strong> on Transfert Royal Paris is simple and fast. In just a few clicks, you can:",
+        "steps": {
+          "step1": "Indicate your departure point and destination",
+          "step2": "Choose the date and time of your transfer",
+          "step3": "Select the type of vehicle (sedan or van)",
+          "step4": "Get an instant quote with fixed price",
+          "step5": "Confirm and pay online securely"
+        },
+        "conclusion": "Trust <strong>Transfert Royal Paris</strong> for all your private transportation needs in the Paris region. Contact us now to book your next <strong>VTC</strong> trip!"
       }
-    },
-    "contact": {
+    }
+  },
+  "contact": {
       "title": "Contact Us",
       "subtitle": "We're here to help with your transportation needs",
       "getInTouch": "Get in Touch",
@@ -510,53 +554,6 @@
     "reserve": "Book now",
     "badge": "Fixed & transparent prices. Easy cancellation.",
     "reassurance": "★★★★★ Google reviews • Flight tracking • Meet & greet • On-time guarantee"
-  },
-
-  "home": {
-    "seo": {
-      "title": "Transfert Royal Paris: Your Premium VTC Service in Paris",
-      "intro": "<strong>Transfert Royal Paris</strong> is your trusted partner for all your travels in the Paris region. Specializing in <strong>premium VTC transportation</strong>, we offer a <strong>private chauffeur</strong> service available 24/7 to meet all your transportation needs.",
-      "services": {
-        "title": "Our VTC Transfer Services in Paris",
-        "intro": "We offer a complete range of transfer services adapted to your needs:",
-        "list": {
-          "airport": "<strong>Paris Airport Transfer</strong>: Shuttles to and from CDG, Orly, and Beauvais airports",
-          "station": "<strong>Paris Train Station Transfer</strong>: Service to all Paris train stations (Gare du Nord, Gare de Lyon, Montparnasse, etc.)",
-          "disneyland": "<strong>Disneyland Paris Transfer</strong>: Family transportation to the theme park with child seats",
-          "hotel": "<strong>Hotel Transfer</strong>: Door-to-door service from your Parisian hotel",
-          "chauffeur": "<strong>Private Chauffeur Paris</strong>: Chauffeur-driven service for your professional trips"
-        }
-      },
-      "whyChoose": {
-        "title": "Why Choose Transfert Royal Paris?",
-        "intro": "Our <strong>VTC Paris</strong> service stands out for its excellence and reliability:",
-        "list": {
-          "fixedPrices": "<strong>Fixed and transparent prices</strong>: No surprises, you know the fare in advance",
-          "professionalDrivers": "<strong>Professional chauffeurs</strong>: Experienced, polite, and punctual staff",
-          "premiumVehicles": "<strong>Premium vehicles</strong>: Luxury sedans and vans, always clean and well-maintained",
-          "flightTracking": "<strong>Real-time flight tracking</strong>: Automatic adjustment in case of delay",
-          "service247": "<strong>24/7 Service</strong>: Available day and night, even on public holidays",
-          "easyBooking": "<strong>Easy online booking</strong>: Book in a few clicks on our website"
-        }
-      },
-      "airportTransfer": {
-        "title": "Paris Airport Transfer: CDG, Orly, Beauvais",
-        "paragraph1": "Our <strong>airport transfers</strong> guarantee you a peaceful and punctual journey. Whether you arrive at <strong>Charles de Gaulle Airport (CDG)</strong>, <strong>Orly Airport (ORY)</strong>, or <strong>Beauvais Airport (BVA)</strong>, our chauffeur welcomes you with a name sign and accompanies you to your final destination.",
-        "paragraph2": "Our <strong>airport shuttle</strong> service includes flight tracking, luggage assistance, and free waiting time to give you time to collect your luggage and clear customs with complete peace of mind."
-      },
-      "booking": {
-        "title": "Book Your VTC Paris Online",
-        "intro": "<strong>VTC booking</strong> on Transfert Royal Paris is simple and fast. In just a few clicks, you can:",
-        "steps": {
-          "step1": "Indicate your departure point and destination",
-          "step2": "Choose the date and time of your transfer",
-          "step3": "Select the type of vehicle (sedan or van)",
-          "step4": "Get an instant quote with fixed price",
-          "step5": "Confirm and pay online securely"
-        },
-        "conclusion": "Trust <strong>Transfert Royal Paris</strong> for all your private transportation needs in the Paris region. Contact us now to book your next <strong>VTC</strong> trip!"
-      }
-    }
   }
 
 }
