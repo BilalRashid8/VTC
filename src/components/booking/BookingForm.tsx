@@ -136,6 +136,17 @@ export default function BookingForm() {
     return location === 'Train Station';
   };
 
+  // Helper function to get the time label based on pickup location
+  const getTimeLabel = () => {
+    if (isAirport(formData.pickupLocation)) {
+      return t('booking.step1.landingTime');
+    }
+    if (formData.tripType === 'round-trip') {
+      return t('booking.step1.outboundTime');
+    }
+    return t('booking.step1.time');
+  };
+
   // Clear sub-location and address when main location changes
   useEffect(() => {
     setFormData(prev => ({ 
@@ -645,7 +656,7 @@ export default function BookingForm() {
             {/* Outbound Time */}
             <div>
               <label className="block text-sm font-medium text-gray-700">
-                {formData.tripType === 'round-trip' ? t('booking.step1.outboundTime') : t('booking.step1.time')}
+                {getTimeLabel()}
               </label>
               <div className="mt-1 relative">
                 <input

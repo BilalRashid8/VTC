@@ -205,6 +205,8 @@
       "outboundTime": "Heure aller",
       "date": "Date",
       "time": "Heure",
+      "landingTime": "Heure d'atterrissage",
+      "departureTime": "Heure de départ",
       "returnJourney": "Voyage de retour",
       "returnDate": "Date de retour",
       "returnTime": "Heure de retour",

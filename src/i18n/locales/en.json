@@ -205,6 +205,8 @@
         "outboundTime": "Outbound Time",
         "date": "Date",
         "time": "Time",
+        "landingTime": "Landing time",
+        "departureTime": "Departure time",
         "returnJourney": "Return Journey",
         "returnDate": "Return Date",
         "returnTime": "Return Time",
